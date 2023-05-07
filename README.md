@@ -36,7 +36,3 @@ I'm open to almost anything really, as long as we always deal with the pure cont
 <hr>
 
 NOTE: THIS IS NOT A PLACE TO WORSHIP, NOR TO CREATE CONTROVERSY. THIS IS FOR EDUCATIONAL PURPOSES ONLY. THERE WILL NOT BE TOLERATED ANY DEEP KINDS OF DISCUSSIONS ABOUT THE BOOK OR ITS CONTENTS IN THE ISSUES OR PULL REQUESTS OF THIS REPOSITORY. THIS IS NOT A FORUM. I HATE IT, YOU SHOULD AS WELL.
-
-
-
-lmao im just reading genesis (or at least the modified version of this shit) for the first time and it appears to me that the author was weirdly explicit and specific on what was "good" or "God's design", and two of them was the fact that PLANTS were to be EATEN and ANIMALS were to be DOMINATED by humankind. What if people before it were just stupid enough to imagine PLANTS were not to be EATEN, neither ANIMALS... Well we already have the second one.
