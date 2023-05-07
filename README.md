@@ -17,7 +17,7 @@ Chan Thomas <br>
 The Adam and Eve story in selectable text (plain text, .txt). <br>
 </h3>
 
-I have been, by hand, transcripted the entire thing into plain text to easy things when copy-and-pasting or when using it digitally. I am planing to do a translation into Spanish. Please, be welcome and read the contributions and rules before anything.
+I have been, by hand, transcripted the entire thing into plain text to ease up things when copy-and-pasting or when using it digitally. I am planing to do a translation into Spanish. Please, be welcome and read the contributions and rules before anything.
 
 **Contributions**
 - Have in mind I basically copied by hand the entire thing, so there might be some places in which I fucked up. If you happen to spot any, please be welcome and fix it.
