@@ -2,7 +2,7 @@
 
 *CIA-RDP79B00752A000300070001-8*
 
-<h2 align="center">THE <br>ADAM and EVE<br>STORY</h1>
+<h1 align="center">THE <br>ADAM and EVE<br>STORY</h1>
 <p align="center">
 by <br>
 Chan Thomas <br>
@@ -13,6 +13,18 @@ Chan Thomas <br>
 *CIA-RDP79B00752A000300070001-8*
 
 <hr>
-<p align="center">
+<h3 align="center">
 The Adam and Eve story in selectable text (plain text, .txt). <br>
-</p>
+</h3>
+
+I have been, by hand, transcripted the entire thing into plain text to easy things when copy-and-pasting or when using it digitally. I am planing to do a translation into Spanish. Please, be welcome and read the contributions and rules before anything.
+
+**Contributions**
+- Have in mind I basically copied by hand the entire thing, so there might be some places in which I fucked up. If you happen to spot any, please be welcome and fix it.
+- If you are planing to add an entire translation, you will be monitoring all of the pull requests and issues that the translation is going to receive.
+
+**Rules**
+1. The `.txt` files will only contain text in words. There will not be any ASCII art allowed.
+2. The words in `English.txt` will directly correspond to the words represented from the 7th page until the end of the declassified document.
+3. Bare in mind we will omit every footnote and endnote from the CIA. We are only interested in the contents of the book.
+4. Please, also omit page numbering and do not try to mimic spaces between pages by entering a bunch of new lines.
