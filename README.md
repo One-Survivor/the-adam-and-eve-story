@@ -33,3 +33,7 @@ I have been, by hand, transcripted the entire thing into plain text to easy thin
 *Lmao I wrote the latter as if it was part of the book or something.*
 
 I'm open to almost anything really, as long as we always deal with the pure contents of that shit.
+
+<hr>
+
+NOTE: THIS IS NOT A PLACE TO WORSHIP, NOR TO CREATE CONTROVERSY. THIS IS FOR EDUCATIONAL PURPOSES ONLY. THERE WILL NOT BE TOLERATED ANY KIND OF DISCUSSIONS ABOUT THE BOOK IN THE ISSUES OR PULL REQUESTS, MOREOVER THOSE DISCUSSIONS THAT OFTEN GENERATE CONTROVERSY. I HATE IT, YOU SHOULD AS WELL.
