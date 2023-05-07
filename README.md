@@ -25,7 +25,7 @@ I have been, by hand, transcripted the entire thing into plain text to easy thin
 
 **Rules**
 1. The `.txt` files will only contain text in words. There will not be any ASCII art allowed.
-2. The words in `English.txt` will directly correspond to the words represented from the 7th page until the end of the declassified document.
+2. The words in `English.txt` will directly correspond to the words represented from the 7th page until the end of the declassified document. The words and gramatical signs (such as the dot, the comma, the colon, the semicolon, etc) are to be placed exactly where the original book places them. Please try to match every single uppercase and lowercase letter as well.
 3. Bare in mind we will omit every footnote and endnote from the CIA. We are only interested in the contents of the book.
 4. Please, also omit page numbering and do not try to mimic spaces between pages by entering a bunch of new lines.
 5. Neither of us is to add words, in any quantity, that does not belong to the original book. Meaning, we cannot add notes to the book such as "In this page, there is a depiction of..." or "Here I believe the author..." in any regard, in any form.
