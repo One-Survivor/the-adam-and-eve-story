@@ -31,3 +31,5 @@ I have been, by hand, transcripted the entire thing into plain text to easy thin
 5. Neither of us is to add words, in any quantity, that does not belong to the original book. Meaning, we cannot add notes to the book such as "In this page, there is a depiction of..." or "Here I believe the author..." in any regard, in any form.
 
 *Lmao I wrote the latter as if it was part of the book or something.*
+
+I'm open to almost anything really, as long as we always deal with the pure contents of that shit.
