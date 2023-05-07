@@ -2,7 +2,7 @@
 
 *CIA-RDP79B00752A000300070001-8*
 
-<h1 align="center">THE ADAM and EVE STORY</h1>
+<h2 align="center">THE <br>ADAM and EVE<br>STORY</h1>
 <p align="center">
 by <br>
 Chan Thomas <br>
