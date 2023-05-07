@@ -29,8 +29,7 @@ I have been, by hand, transcripted the entire thing into plain text to easy thin
 3. Bare in mind we will omit every footnote and endnote from the CIA. We are only interested in the contents of the book.
 4. Please, also omit page numbering and do not try to mimic spaces between pages by entering a bunch of new lines.
 5. Neither of us is to add words, in any quantity, that does not belong to the original book. Meaning, we cannot add notes to the book such as "In this page, there is a depiction of..." or "Here I believe the author..." in any regard, in any form.
-
-*Lmao I wrote the latter as if it was part of the book or something.*
+6. Pls keep paragraphs in the same line, and only jump to another line when the paragraph ends.
 
 I'm open to almost anything really, as long as we always deal with the pure contents of that shit.
 
