@@ -36,5 +36,3 @@ I'm open to almost anything really, as long as we always deal with the pure cont
 <hr>
 
 NOTE: THIS IS NOT A PLACE TO WORSHIP, NOR TO CREATE CONTROVERSY. THIS IS FOR EDUCATIONAL PURPOSES ONLY. THERE WILL NOT BE TOLERATED ANY DEEP KINDS OF DISCUSSIONS ABOUT THE BOOK OR ITS CONTENTS IN THE ISSUES OR PULL REQUESTS OF THIS REPOSITORY. THIS IS NOT A FORUM. I HATE IT, YOU SHOULD AS WELL.
-
-I'm testing something. Do people actually read what has happened across the commits of a public repository? I think that they just assume, since it's public, it should be *good*. If you are reding this, please comment this commit.
