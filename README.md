@@ -14,7 +14,7 @@ Chan Thomas <br>
 
 <hr>
 <h3 align="center">
-The Adam and Eve story in selectable text (plain text, .txt). <br>
+The Adam and Eve story in plain text (.txt) and multiple languages. <br>
 </h3>
 
 I have been, by hand, transcripted the entire thing into plain text to ease up things when copy-and-pasting or when using it digitally. I am planing to do a translation into Spanish. Please, be welcome and read the contributions and rules before anything.
