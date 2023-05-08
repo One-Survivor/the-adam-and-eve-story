@@ -21,7 +21,7 @@ I have been, by hand, transcripted the entire thing into plain text to ease up t
 
 **I'm new**
 
-So you are new to GitHub. It is really simple. You can think of it as a cloud storage, or something like a Google Drive. You can store things here and collaborate with people just like in Google Docs. If you just want to read/use the book, [click here](https://github.com/One-Survivor/the-adam-and-eve-story/blob/main/English.txt)
+So you are new to GitHub. It is really simple. You can think of it as a cloud storage, or something like a Google Drive. You can store things here and collaborate with people just like in Google Docs. If you just want to read/use the book, [click here](https://github.com/One-Survivor/the-adam-and-eve-story/blob/main/English.txt).
 
 **Contributions**
 - Have in mind I basically copied by hand the entire thing, so there might be some places in which I fucked up. If you happen to spot any, please be welcome and fix it.
